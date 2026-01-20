@@ -1,0 +1,7 @@
+google-adk
+requests
+playwright
+gspread
+google-auth
+ollama
+
